@@ -1,0 +1,1 @@
+Exportaciones de los notebooks con resultados (HTML o .ipynb) desde Databricks: File > Export.
