@@ -1,4 +1,4 @@
-# OceanWatch Analytics — el lakehouse del tráfico marítimo (Entrega 1)
+# OceanWatch Analytics — entrega 1
 
 **MINE 4213 · Soluciones Intensivas en Datos · 2026-20 · Proyecto final, Entrega 1**
 Plataforma: **Databricks Free Edition** (serverless, Unity Catalog, Photon)
